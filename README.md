@@ -1,2 +1,3 @@
 # git-training
-Akash bADHAN
+Akash Badhan
+Learing git and github.
